@@ -40,6 +40,10 @@
 
 
 ## Kuka Robot Programming - Milling Path Planning & Simulation 
+## NC Code:
+![image](https://user-images.githubusercontent.com/65818525/131265592-8cac066e-0781-4432-8249-68340d4d3c0b.png)
+
+
 ## Step 1: Joint
 ![Webp net-gifmaker (12)](https://user-images.githubusercontent.com/65818525/131265255-4bd3430d-0cce-459b-9736-8e50ca286aac.gif)
 ---
