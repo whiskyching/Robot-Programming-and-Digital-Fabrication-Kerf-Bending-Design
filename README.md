@@ -48,6 +48,9 @@
 ---
 ## Step 3: Contour
 ![Webp net-gifmaker (10)](https://user-images.githubusercontent.com/65818525/131264716-a17d94c1-e6ec-497d-8e76-921d1c87cd6a.gif)
+---
+## Final Panel
+![image](https://user-images.githubusercontent.com/65818525/131265444-c2ded082-ba5a-4ec0-b471-b09b63f90f52.png)
 
 
 
