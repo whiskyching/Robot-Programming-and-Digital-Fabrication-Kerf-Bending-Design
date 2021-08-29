@@ -38,8 +38,5 @@
 ## Step 3: Contour
 ![Webp net-gifmaker (10)](https://user-images.githubusercontent.com/65818525/131264716-a17d94c1-e6ec-497d-8e76-921d1c87cd6a.gif)
 
----
-![Contour](https://user-images.githubusercontent.com/65818525/130509237-6222571d-70e5-479b-bc1a-b1d84748b535.gif)
----
-![Kerfing (1)](https://user-images.githubusercontent.com/65818525/130510036-48e91a8f-2a7a-4a33-af35-d9cd9fa6e2b0.gif)
+
 
