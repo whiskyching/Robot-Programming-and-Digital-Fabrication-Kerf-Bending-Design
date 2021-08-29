@@ -25,12 +25,12 @@
 
 
 ## Kuka Robot Programming - Milling Path Planning & Simulation 
-![Webp net-gifmaker (10)](https://user-images.githubusercontent.com/65818525/131264716-a17d94c1-e6ec-497d-8e76-921d1c87cd6a.gif)
----
+## Step 1: 
 ![Webp net-gifmaker (8)](https://user-images.githubusercontent.com/65818525/131264662-563c68de-7dea-4720-8c59-7a98ec1f8abd.gif)
 ---
 ![Webp net-gifmaker (9)](https://user-images.githubusercontent.com/65818525/131264672-301b7e9d-3e1f-4d95-9ff9-a7d93a0d70ae.gif)
-
+---
+![Webp net-gifmaker (10)](https://user-images.githubusercontent.com/65818525/131264716-a17d94c1-e6ec-497d-8e76-921d1c87cd6a.gif)
 
 ---
 ![Contour](https://user-images.githubusercontent.com/65818525/130509237-6222571d-70e5-479b-bc1a-b1d84748b535.gif)
