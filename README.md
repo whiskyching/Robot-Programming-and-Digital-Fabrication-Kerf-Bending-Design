@@ -1,4 +1,4 @@
-# Digital-Fabrication-Kerf-Bending-and-Joint-Design
+# Robot-Programming-and-Digital-Fabrication-Kerf-Bending-Design
 
 
 ![image](https://user-images.githubusercontent.com/65818525/130509421-a4fe4dca-8978-442c-9160-20d0bf05a74f.png)
