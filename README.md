@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/65818525/130510441-6b0f126d-b76d-42e3-b136-89a17533f5ed.png)
 
 
-## Kuka Robot Programming - Milling Path Planning
+## Kuka Robot Programming - Milling Path Planning & Simulation 
 ![Contour](https://user-images.githubusercontent.com/65818525/130509237-6222571d-70e5-479b-bc1a-b1d84748b535.gif)
 ---
 ![Kerfing (1)](https://user-images.githubusercontent.com/65818525/130510036-48e91a8f-2a7a-4a33-af35-d9cd9fa6e2b0.gif)
