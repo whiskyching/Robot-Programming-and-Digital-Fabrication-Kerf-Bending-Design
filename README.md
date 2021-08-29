@@ -50,7 +50,7 @@
 ![Webp net-gifmaker (10)](https://user-images.githubusercontent.com/65818525/131264716-a17d94c1-e6ec-497d-8e76-921d1c87cd6a.gif)
 ---
 ## Fundamental Element: Panel
-![image](https://user-images.githubusercontent.com/65818525/131265444-c2ded082-ba5a-4ec0-b471-b09b63f90f52.png) ![image](https://user-images.githubusercontent.com/65818525/131265504-08f5fa6b-936b-413c-9364-e4f9b24df211.png)
+![image](https://user-images.githubusercontent.com/65818525/131265542-ec76bcdc-c5e3-41fe-b7d3-a83dd16f9821.png) ![image](https://user-images.githubusercontent.com/65818525/131265504-08f5fa6b-936b-413c-9364-e4f9b24df211.png)
 
 ---
 ## Step 4: Assembly
