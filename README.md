@@ -1,5 +1,14 @@
 # Robot-Programming-and-Digital-Fabrication-Kerf-Bending-Design
+## Software Tool: 
+- KUKA SimPro 
+- Rhino 3D
+- Grasshopper 3D
+- Python
+- C#
 
+## Hardware:
+- KUKA KR125
+- Spindle 6KW
 
 ![image](https://user-images.githubusercontent.com/65818525/130509421-a4fe4dca-8978-442c-9160-20d0bf05a74f.png)
 ---
