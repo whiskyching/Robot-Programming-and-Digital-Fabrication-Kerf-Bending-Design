@@ -1,5 +1,6 @@
 # Robot-Programming-and-Digital-Fabrication-Kerf-Bending-Design
 Use 2D planar plywood plate to approximate the double curve surface by using the design of kerfing. The layout and the size of kerfing directly affect the bending effect and the final geometry. The parametric algorithms have been developed to conduct the approximation process. The fabrication factors like robot arm type, cost, and fabrication time are also considered during the design process.  
+
 ## Software Tool: 
 - KUKA SimPro 
 - Rhino 3D
