@@ -50,8 +50,7 @@ Use 2D planar plywood plate to approximate the double curve surface by using the
 ![Webp net-gifmaker (12)](https://user-images.githubusercontent.com/65818525/131265255-4bd3430d-0cce-459b-9736-8e50ca286aac.gif)
 ---
 ## Step 2: Kerfing
-![Webp net-gifmaker (2)](https://user-images.githubusercontent.com/65818525/131340177-9c0ff4a8-8ce5-41d2-bcbc-088a681a371e.gif)
-
+![Webp net-gifmaker (8)](https://user-images.githubusercontent.com/65818525/131340266-d42bd8f7-a85d-4007-8fda-26077d25021e.gif)
 ---
 ## Step 3: Contour
 ![Webp net-gifmaker (10)](https://user-images.githubusercontent.com/65818525/131264716-a17d94c1-e6ec-497d-8e76-921d1c87cd6a.gif)
