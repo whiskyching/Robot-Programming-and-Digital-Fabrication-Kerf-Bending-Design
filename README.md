@@ -22,7 +22,6 @@ Use 2D planar plywood plate to approximate the double curve surface by using the
 
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130509467-6feb10e0-871e-4085-ae1d-efc5dccdfdf5.png)
-
 ---
 ![image](https://user-images.githubusercontent.com/65818525/130509507-6c967177-66c5-4677-ac22-d671e6ba318c.png)
 ---
